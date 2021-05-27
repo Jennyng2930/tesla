@@ -7,8 +7,6 @@ import {useSelector} from 'react-redux'
 
 
 function Header() {
-    
-
     const [burgerStatus, setBurgerStatus] = useState(false);
     //initially is the burger status is close ~ false
     const cars = useSelector(selectCars)
