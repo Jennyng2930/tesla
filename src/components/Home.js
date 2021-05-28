@@ -6,10 +6,10 @@ import Section from './Section';
 function Home() {
     return (
         <Container>
-            <Section 
+            <Section    
                 title="Model S"
                 description= "Order Online for Touchless Delivery"
-                backgroundImg="model-s.jpg"
+                backgroundImg="https://cdn.vox-cdn.com/thumbor/-pJN8SXIOo6Fm6JHBlG3GptwOuQ=/0x0:3520x1816/1200x800/filters:focal(1479x627:2041x1189)/cdn.vox-cdn.com/uploads/chorus_image/image/68730355/Screen_Shot_2021_01_27_at_3.26.14_PM.0.png"
                 leftBtnText="Custom Order"
                 rightBtnText="Existing Inventory"
             />
